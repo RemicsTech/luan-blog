@@ -37,12 +37,12 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
+            {/* <strong>{author}</strong> */}
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              Ricordi raccolti da <strong>{author}</strong> guardando la Senna
+              con amore e nostalgia.{" "}
+              <a href={`https://facebook.com/${social.facebook}`}>
+                Seguimi su facebook!
               </a>
             </p>
           </div>
@@ -65,7 +65,7 @@ const bioQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
+          facebook
         }
       }
     }
