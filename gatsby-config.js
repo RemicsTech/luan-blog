@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Blog Di Un Vecchio Cronista`,
     author: `Luan Rexha`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://luan-rexha-blog.netlify.com/`,
+    description: `Blog Di Un Vecchio Cronista.`,
+    siteUrl: `https://luanrexha.com/`,
     social: {
       facebook: `luan.rexha.9`,
     },
@@ -57,13 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Luan Rexha log`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.jpg`,
       },
     },
     `gatsby-plugin-offline`,

@@ -11,7 +11,9 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
-
+    console.log('posts', posts);
+    const albaniaPosts = posts.filter(p => p.node.fields.slug.includes('albania'))
+    console.log('albaniaPosts', albaniaPosts);
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -19,7 +21,12 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <Bio />
-        {posts.map(({ node }) => {
+        <div>
+          <p style={{fontSize: '1.2rem'}}>
+            Questi articoli furono pubblicati nel 1967 dal <a target="__blank" href="https://gds.it/">Giornale di Sicilia</a>. Ero stato l'unico giornalista occidentale ad ottenere il visto d'ingresso in Albania che in quel periodo viveva la sua rivoluzione culturale di stile maoista. <br/> Questi stessi articoli sono stati ripresi nel mio primo libro "Memorie di un vecchio cronista".
+          </p>
+        </div>
+        {albaniaPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div key={node.fields.slug}>
