@@ -4,7 +4,7 @@ date: "1965-03-21T22:40:32.169Z"
 description: Era tutto in una lettera il «giallo» di Corleone. La spiegazione dell’assassinio di 21 una donna spezzata da otto colpi di accetta, il segreto di un uomo che si è impiccato ad un ulivo di contrada Vallone Torbido, la sconcertante realtà di un delitto d’onore programmato che diventa rito tribale. sacrificio di sangue alla terra dei padri
 ---
 
-
+##
 Era tutto in una lettera il «giallo» di Corleone. La spiegazione dell’assassinio di una donna spezzata da otto colpi di accetta, il segreto di un uomo che si è impiccato ad un ulivo di contrada Vallone Torbido, la sconcertante realtà di un delitto d’onore programmato che diventa rito tribale. sacrificio di sangue alla terra dei padri.
 
 
