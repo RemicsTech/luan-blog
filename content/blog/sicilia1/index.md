@@ -4,9 +4,11 @@ date: "1965-03-21T22:40:32.169Z"
 description: Era tutto in una lettera il «giallo» di Corleone. La spiegazione dell’assassinio di 21 una donna spezzata da otto colpi di accetta, il segreto di un uomo che si è impiccato ad un ulivo di contrada Vallone Torbido, la sconcertante realtà di un delitto d’onore programmato che diventa rito tribale. sacrificio di sangue alla terra dei padri
 ---
 
-![ascia](./ascia.png)
 
 Era tutto in una lettera il «giallo» di Corleone. La spiegazione dell’assassinio di una donna spezzata da otto colpi di accetta, il segreto di un uomo che si è impiccato ad un ulivo di contrada Vallone Torbido, la sconcertante realtà di un delitto d’onore programmato che diventa rito tribale. sacrificio di sangue alla terra dei padri.
+
+
+![ascia](./ascia.png)
 
 
 «Io sottoscritto Paolo Di Frisco uccido mia moglie Concetta Salvaggio e mi tolgo la vita perché ha calpestato il mio onore. Mi ha sempre tradito. Con tutti, prima del matrimonio e dopo. anche con mio figlio è stata. Li ho scoperti una sera abbracciati In Germania si è venduta per due etti di formaggio. È stata infedele come la mia prima moglie Anche lei mi tradiva. Tutti mi hanno tradito..».

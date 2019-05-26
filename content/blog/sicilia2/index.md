@@ -1,11 +1,10 @@
 ---
-title: "Don Peppino sparò per “lavare” l’onore
-"
+title: "Don Peppino sparò per “lavare” l’onore"
 date: "1965-11-19T22:40:32.169Z"
 description: "«Domineddio e suo figlio non riuscirono a cambiare la testa dei farisei, cosa potevo fare io? Questo mi disse il vecchio arciprete prima di morire. Aveva 83 anni, era stanco e rassegnato». Parla Padre Castellino, parroco di San Rocco: chiesa arancione, moderna, tra litanie di tetti sbilenchi, a monte, nella parte più antica del paese"
 ---
 
-![ascia](./peppino.png)
+
 
 
 ## Grotte, 19 novembre
@@ -13,6 +12,9 @@ description: "«Domineddio e suo figlio non riuscirono a cambiare la testa dei f
 
 «Domineddio e suo figlio non riuscirono a cambiare la testa dei farisei, cosa potevo fare io? Questo mi disse il vecchio arciprete prima di morire. Aveva 83 anni, era stanco e rassegnato».
 Parla Padre Castellino, parroco di San Rocco: chiesa arancione, moderna, tra litanie di tetti sbilenchi, a monte, nella parte più antica del paese.
+
+
+![ascia](./peppino.png)
 
 
 ### Il delitto
