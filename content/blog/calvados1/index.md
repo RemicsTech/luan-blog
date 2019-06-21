@@ -71,3 +71,5 @@ esibendo quella inquietante familiarità con la morte che hanno i siciliani.
  
 Dal vicino oriente arrivava la prima luce già gravida di calore. Quella giornata di luglio me la ero immaginata diversa. Quando sto così incazzato urge una doccia. Sotto la carezza fredda dell’acqua non riesco a dimenticare il suo viso. Sta sicura, Angela, che nun me scappa e quando je metto le mani
 addosso lo faccio piagne. Eri così vicina. Forse sarebbe cambiato tutto.
+
+![copertina](./copertina.jpg)
