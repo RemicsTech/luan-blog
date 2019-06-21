@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -14,7 +14,8 @@ class BlogIndex extends React.Component {
     console.log('posts', posts);
     const albaniaPosts = posts.filter(p => p.node.fields.slug.includes('albania'))
     const siciliaPosts = posts.filter(p => p.node.fields.slug.includes('sicilia'))
-    console.log('albaniaPosts', albaniaPosts);
+    const calvadosPosts = posts.filter(p => p.node.fields.slug.includes("calvados"))
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -22,6 +23,33 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <Bio />
+        <div>
+          <p style={{ fontSize: "1.2rem" }}>
+            Un modesto omaggio al grande maestro Camilleri.
+          </p>
+        </div>
+        {calvadosPosts.map(({ node }) => {
+          const title = node.frontmatter.title || node.fields.slug
+          return (
+            <div key={node.fields.slug}>
+              <h3
+                style={{
+                  marginBottom: rhythm(1 / 4),
+                }}
+              >
+                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                  {title}
+                </Link>
+              </h3>
+              <small>{node.frontmatter.date}</small>
+              <p
+                dangerouslySetInnerHTML={{
+                  __html: node.frontmatter.description || node.excerpt,
+                }}
+              />
+            </div>
+          )
+        })}
         <div>
           <p style={{fontSize: '1.2rem'}}>
             "Stato emotivo di carattere eccezionale."<br/>
