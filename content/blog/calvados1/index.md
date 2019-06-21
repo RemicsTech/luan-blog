@@ -5,7 +5,7 @@ description: Quel figlio di troia continuava a lampeggiare rimbalzando in modo a
              Prima di rispondere guardai l’ora. Erano le quattro passate.
 ---
 
-## Tirana, 7 marzo 1967
+## Capitolo 1
 
 Quel figlio di troia continuava a lampeggiare rimbalzando in modo accanito sulla lastra di marmo del comodino che ospitava un lume da lettura e la mia Beretta di ordinanza.
 
